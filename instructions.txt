@@ -1,0 +1,23 @@
+Rooster Competition
+-------------------
+Find the rooster with the longest crow duration (rooster_competition.wav). You may use available datasets for solving this problem (e.g. https://github.com/karolpiczak/ESC-50). The final concept should provide the following information as an output:
+	1. Total number of roosters
+	2. Duration of crow from each rooster in the competition using the format <rooster name>:<duration in milliseconds>
+	3. Ranking of roosters by crow length using the format <rank>:<rooster name> (the rooster with the longest crow gets the first place. Assume that the roosters have numbers as names, so the first rooster’s name in the competition is ‘1’, second is ‘2’, etc.)
+
+                            ~-.
+          ,,,;            ~-.~-.~-
+         (.../           ~-.~-.~-.~-.~-.
+         } o~`,         ~-.~-.~-.~-.~-.~-.
+         (/    \      ~-.~-.~-.~-.~-.~-.~-.
+          ;    \    ~-.~-.~-.~-.~-.~-.~-.
+         ;     {_.~-.~-.~-.~-.~-.~-.~
+        ;:  .-~`    ~-.~-.~-.~-.~-.
+       ;.: :'    ._   ~-.~-.~-.~-.~-
+        ;::`-.    '-._  ~-.~-.~-.~-
+         ;::. `-.    '-,~-.~-.~-.
+          ';::::.`''-.-'
+            ';::;;:,:'
+               '||"
+               / |
+             ~` ~"'
